@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="flat_button_positive_text">#47a7d4</color>
+    <color name="flat_button_negative_text">#727272</color>
+    <color name="flat_button_bg_pressed">#64999999</color>
+    <color name="holo_red_light">#ffff4444</color>
+</resources>
